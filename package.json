@@ -16,7 +16,7 @@
     "cors": "^2.8.4",
     "csvtojson": "^2.0.10",
     "ejs": "~2.5.7",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-req-validate": "^1.1.0",
     "fast-csv": "^3.0.1",
     "morgan": "^1.9.0",
